@@ -27,6 +27,8 @@ This is inline code `some code here`.
 	}
 ```
 
+This is normal text after the code.
+
 [someref]: http://stefanwill.io "Stefan"
 [MarkdownRef]: http://stefanwill.io
 [gfm]: http://stefanwill.io
